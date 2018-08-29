@@ -1,0 +1,23 @@
+h4 {
+	margin: 10px 0 20px 0;
+}
+
+#tribute-info {
+	padding: 20px 0;
+	background-color: #E9ECF0;
+	margin-bottom: 20px;
+}
+
+#tribute-info li{
+	margin-bottom: 10px;
+}
+
+.card.card-body {
+	box-shadow: 5px 5px 8px 2px #333;
+	-moz-box-shadow: 5px 5px 8px 2px #333;
+	-webkit-box-shadow: 5px 5px 8px 2px #333;
+}
+
+#credit {
+	margin: 20px 0 15px 0;
+}
